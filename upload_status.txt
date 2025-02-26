@@ -1,0 +1,29 @@
+Processing https://youtube.com/shorts/6t5OCimRDxc?si=TB5hg8dZXMc0ISjH at Wed Feb 26 15:33:23 2025
+Downloaded https://youtube.com/shorts/6t5OCimRDxc?si=TB5hg8dZXMc0ISjH to downloaded_videos\6t5OCimRDxc.mp4 at Wed Feb 26 15:33:31 2025
+Uploaded https://youtube.com/shorts/6t5OCimRDxc?si=TB5hg8dZXMc0ISjH as video ID: Qh3ENy4dmeE at Wed Feb 26 15:33:35 2025
+All videos processed. Waiting for new URLs at Wed Feb 26 15:33:45 2025
+Error downloading https://youtube.com/shorts/6t5OCimRDxc?si=TB5hg8dZXMc0ISjH: [0;31mERROR:[0m Unable to rename file: [WinError 2] The system cannot find the file specified: 'downloaded_videos\\6t5OCimRDxc.mp4.part' -> 'downloaded_videos\\6t5OCimRDxc.mp4'
+Downloaded https://youtube.com/shorts/6t5OCimRDxc?si=TB5hg8dZXMc0ISjH to downloaded_videos\6t5OCimRDxc.mp4 at Wed Feb 26 17:04:44 2025
+Error downloading https://youtube.com/shorts/l7pazkGCQaY?si=kFd1kHVQK63X-C23: [0;31mERROR:[0m Unable to rename file: [WinError 32] The process cannot access the file because it is being used by another process: 'downloaded_videos\\l7pazkGCQaY.mp4.part' -> 'downloaded_videos\\l7pazkGCQaY.mp4'. Giving up after 3 retries
+Downloaded https://youtube.com/shorts/l7pazkGCQaY?si=kFd1kHVQK63X-C23 to downloaded_videos\l7pazkGCQaY.mp4 at Wed Feb 26 17:04:53 2025
+Downloaded https://youtube.com/shorts/6t5OCimRDxc?si=TB5hg8dZXMc0ISjH to downloaded_videos\6t5OCimRDxc.mp4 at Wed Feb 26 17:04:59 2025
+Downloaded https://youtube.com/shorts/6t5OCimRDxc?si=TB5hg8dZXMc0ISjH to downloaded_videos\6t5OCimRDxc.mp4 at Wed Feb 26 17:05:00 2025
+Downloaded https://youtube.com/shorts/l7pazkGCQaY?si=kFd1kHVQK63X-C23 to downloaded_videos\l7pazkGCQaY.mp4 at Wed Feb 26 17:05:07 2025
+Downloaded https://youtube.com/shorts/l7pazkGCQaY?si=kFd1kHVQK63X-C23 to downloaded_videos\l7pazkGCQaY.mp4 at Wed Feb 26 17:05:07 2025
+Downloaded https://youtube.com/shorts/w9sIpEpmCew?si=NFtRyxnOJZJit4IH to downloaded_videos\w9sIpEpmCew.mp4 at Wed Feb 26 17:05:13 2025
+Downloaded https://youtube.com/shorts/w9sIpEpmCew?si=NFtRyxnOJZJit4IH to downloaded_videos\w9sIpEpmCew.mp4 at Wed Feb 26 17:05:15 2025
+Uploaded video_6t5OCimRDxc.mp4 as video ID: -kA7qVVHX0Y at Wed Feb 26 17:12:04 2025
+Uploaded video_6t5OCimRDxc.mp4 as video ID: Boyjur4r7EQ at Wed Feb 26 17:12:04 2025
+Downloaded https://youtube.com/shorts/l7pazkGCQaY?si=kFd1kHVQK63X-C23 to downloaded_videos\l7pazkGCQaY.mp4 at Wed Feb 26 17:12:10 2025
+No URLs available to download at Wed Feb 26 17:15:30 2025
+Uploaded video_l7pazkGCQaY.mp4 as video ID: HKW980nnGoQ at Wed Feb 26 17:16:05 2025
+No URLs available to download at Wed Feb 26 17:16:05 2025
+No URLs available to download at Wed Feb 26 17:24:15 2025
+No URLs available to download at Wed Feb 26 17:24:17 2025
+Downloaded https://youtube.com/shorts/gKq7mDhK1t8?si=hi2sdv5io8yTrYYF to downloaded_videos\gKq7mDhK1t8.mp4 at Wed Feb 26 17:28:53 2025
+Downloaded https://youtube.com/shorts/w9sIpEpmCew?si=NFtRyxnOJZJit4IH to downloaded_videos\w9sIpEpmCew.mp4 at Wed Feb 26 17:28:59 2025
+Downloaded https://youtube.com/shorts/6t5OCimRDxc?si=TB5hg8dZXMc0ISjH to downloaded_videos\6t5OCimRDxc.mp4 at Wed Feb 26 17:29:06 2025
+Downloaded https://youtube.com/shorts/81N5LpSjaFw?si=D6_A3yrxgjt1VNAD to downloaded_videos\81N5LpSjaFw.mp4 at Wed Feb 26 17:29:12 2025
+Downloaded https://youtube.com/shorts/6t5OCimRDxc?si=TB5hg8dZXMc0ISjH to downloaded_videos\6t5OCimRDxc.mp4 at Wed Feb 26 17:29:19 2025
+Uploaded video_6t5OCimRDxc.mp4 as video ID: IBVUur2rtrQ at Wed Feb 26 17:30:04 2025
+No URLs available to download at Wed Feb 26 17:30:04 2025
